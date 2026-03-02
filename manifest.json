@@ -10,8 +10,7 @@
       "releases": [
         {
           "version": "0.0.1",
-          "downloadUrl": "",
-          "changelog": "Initial release."
+          "downloadUrl": "https://github.com/TheNaii/GGPlugins/releases/download/v0.0.1-dev/lolamv0.0.1-dev.zip",
         }
       ]
     }
