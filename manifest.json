@@ -13,6 +13,20 @@
           "downloadUrl": "https://github.com/TheNaii/GGPlugins/releases/download/v0.0.1/lolamv0.0.1-release.zip"
         }
       ]
+    },
+    {
+      "id": "flame-translator",
+      "displayName": "Flame Translator",
+      "description": "Translate toxic game chat into hilarious styles.",
+      "author": "NaiiGames",
+      "iconUrl": "https://raw.githubusercontent.com/TheNaii/GGPlugins/refs/heads/main/FTModule/icon.png",
+      "latestVersion": "0.0.1",
+      "releases": [
+        {
+          "version": "0.0.1",
+          "downloadUrl": "https://github.com/TheNaii/GGPlugins/releases/download/ft-v0.0.1/ft-v0.0.1.zip"
+        }
+      ]
     }
   ]
 }
