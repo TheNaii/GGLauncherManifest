@@ -27,6 +27,20 @@
           "downloadUrl": "https://github.com/TheNaii/GGPlugins/releases/download/ft-v0.0.1/ft-v0.0.1.zip"
         }
       ]
+    },
+    {
+      "id": "clash-drafter",
+      "displayName": "Clash Drafter",
+      "description": "Shared team planning for competitive League.",
+      "author": "NaiiGames",
+      "iconUrl": "https://raw.githubusercontent.com/TheNaii/GGPlugins/refs/heads/main/CDModule/icon.png",
+      "latestVersion": "0.0.1",
+      "releases": [
+        {
+          "version": "0.0.1",
+          "downloadUrl": ""
+        }
+      ]
     }
   ]
 }
